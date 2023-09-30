@@ -20,12 +20,12 @@ num2 = float(input("Enter the second number: "))
 operation = input("Enter the operation (+, -, *, /): ")
 
 # Perform the calculation
-result = calculate(num1, num2, operation)
+reslt = calculate(num1, num2, operation) 
 
 
 
 # Display the result
-print(f"Result: {result}")
+print(f"Result: {reslt}")
 
 
 
